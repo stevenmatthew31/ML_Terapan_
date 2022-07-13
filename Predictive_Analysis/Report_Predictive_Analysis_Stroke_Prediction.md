@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning -Steven Matthew Gondowijoyo
 
-## Project Overview - *Stroke Detection*
+## Project Overview - Stroke Detection
 <p align="Justify">
 Saat ini gangguan neurologis sangat mempengaruhi kehidupan masyarakat pada tingkat epidemi. Penyakit stroke merupakan penyakit Neurodegeneratif yang paling sering diderita oleh pasien yang berusia diatas 60 tahun. Secara khusus, stroke adalah penyakit kronis gangguan neurologis yang berhubungan dengan hemiplegia, kurangnya keseimbangan dan gaya berjalan yang abnormal. Sebanyak 83-90% penderita mengalami gejala tersebut. [1]. Meskipun stroke merupakan penyakit yang tidak menular, namun stroke merupakan penyebab kedua kematian di dunia menurut [2]. Terlebih lagi, usia adalah faktor utama yang paling penting dalam mendeteksi stroke dan fakta bahwa populasi semakin tua, angka-angka ini dapat meningkat lebih lanjut dalam waktu yang tidak terlalu lama. Umumnya, masyarakat sekitar sering menganggap sepele gejala stroke yang dapat berakibat fatal. 
 <p align="Justify">
